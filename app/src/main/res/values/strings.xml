@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo Combustivel</string>
+    <string name="titulo">Gasolina VS Etanol</string>
+    <string name="gasolina">Informe o valor da gasolina (por litro)</string>
+    <string name="etanol">Informe o valor da etanol (por litro)</string>
+    <string name="buttonText">Calcular</string>
+    <string name="respostaUm">Etanol é mais vantajoso! Diferença Percentual:</string>
+    <string name="respostaDois">Gasolina é mais vantajosa! Diferença Percentual:</string>
+    <string name="respostaTres">Etanol ta mais caro!</string>
+</resources>
